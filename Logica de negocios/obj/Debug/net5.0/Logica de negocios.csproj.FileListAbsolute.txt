@@ -1,0 +1,89 @@
+C:\Users\Alumno\source\repos\Logica de negocios\bin\Debug\net5.0\Logica de negocios.deps.json
+C:\Users\Alumno\source\repos\Logica de negocios\bin\Debug\net5.0\Logica de negocios.dll
+C:\Users\Alumno\source\repos\Logica de negocios\bin\Debug\net5.0\Logica de negocios.pdb
+C:\Users\Alumno\source\repos\Logica de negocios\bin\Debug\net5.0\DAL.dll
+C:\Users\Alumno\source\repos\Logica de negocios\bin\Debug\net5.0\DAL.pdb
+C:\Users\Alumno\source\repos\Logica de negocios\obj\Debug\net5.0\Logica de negocios.csproj.AssemblyReference.cache
+C:\Users\Alumno\source\repos\Logica de negocios\obj\Debug\net5.0\Logica de negocios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\source\repos\Logica de negocios\obj\Debug\net5.0\Logica de negocios.AssemblyInfoInputs.cache
+C:\Users\Alumno\source\repos\Logica de negocios\obj\Debug\net5.0\Logica de negocios.AssemblyInfo.cs
+C:\Users\Alumno\source\repos\Logica de negocios\obj\Debug\net5.0\Logica de negocios.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\Logica de negocios\obj\Debug\net5.0\Logica de negocios.csproj.CopyComplete
+C:\Users\Alumno\source\repos\Logica de negocios\obj\Debug\net5.0\Logica de negocios.dll
+C:\Users\Alumno\source\repos\Logica de negocios\obj\Debug\net5.0\Logica de negocios.pdb
+C:\Users\Alumno\source\repos\Logica de negocios\obj\Debug\net5.0\ref\Logica de negocios.dll
+C:\Users\Alumno\source\repos\Logica de negocios\bin\Debug\net5.0\ref\Logica de negocios.dll
+E:\Descargas\NuevaArquitectura\Arquitectura web\Logica de negocios\bin\Debug\net5.0\Logica de negocios.deps.json
+E:\Descargas\NuevaArquitectura\Arquitectura web\Logica de negocios\bin\Debug\net5.0\Logica de negocios.dll
+E:\Descargas\NuevaArquitectura\Arquitectura web\Logica de negocios\bin\Debug\net5.0\ref\Logica de negocios.dll
+E:\Descargas\NuevaArquitectura\Arquitectura web\Logica de negocios\bin\Debug\net5.0\Logica de negocios.pdb
+E:\Descargas\NuevaArquitectura\Arquitectura web\Logica de negocios\bin\Debug\net5.0\DAL.dll
+E:\Descargas\NuevaArquitectura\Arquitectura web\Logica de negocios\bin\Debug\net5.0\DAL.pdb
+E:\Descargas\NuevaArquitectura\Arquitectura web\Logica de negocios\obj\Debug\net5.0\Logica de negocios.csproj.AssemblyReference.cache
+E:\Descargas\NuevaArquitectura\Arquitectura web\Logica de negocios\obj\Debug\net5.0\Logica de negocios.GeneratedMSBuildEditorConfig.editorconfig
+E:\Descargas\NuevaArquitectura\Arquitectura web\Logica de negocios\obj\Debug\net5.0\Logica de negocios.AssemblyInfoInputs.cache
+E:\Descargas\NuevaArquitectura\Arquitectura web\Logica de negocios\obj\Debug\net5.0\Logica de negocios.AssemblyInfo.cs
+E:\Descargas\NuevaArquitectura\Arquitectura web\Logica de negocios\obj\Debug\net5.0\Logica de negocios.csproj.CoreCompileInputs.cache
+E:\Descargas\NuevaArquitectura\Arquitectura web\Logica de negocios\obj\Debug\net5.0\Logica de negocios.csproj.CopyComplete
+E:\Descargas\NuevaArquitectura\Arquitectura web\Logica de negocios\obj\Debug\net5.0\Logica de negocios.dll
+E:\Descargas\NuevaArquitectura\Arquitectura web\Logica de negocios\obj\Debug\net5.0\ref\Logica de negocios.dll
+E:\Descargas\NuevaArquitectura\Arquitectura web\Logica de negocios\obj\Debug\net5.0\Logica de negocios.pdb
+E:\Descargas\NuevaArquitectura\Arquitectura web\Logica de negocios\bin\Debug\net5.0\Entidades.dll
+E:\Descargas\NuevaArquitectura\Arquitectura web\Logica de negocios\bin\Debug\net5.0\Entidades.pdb
+E:\Descargas\Arquitectura web\Logica de negocios\bin\Debug\net5.0\Logica de negocios.deps.json
+E:\Descargas\Arquitectura web\Logica de negocios\bin\Debug\net5.0\Logica de negocios.dll
+E:\Descargas\Arquitectura web\Logica de negocios\bin\Debug\net5.0\ref\Logica de negocios.dll
+E:\Descargas\Arquitectura web\Logica de negocios\bin\Debug\net5.0\Logica de negocios.pdb
+E:\Descargas\Arquitectura web\Logica de negocios\bin\Debug\net5.0\DAL.dll
+E:\Descargas\Arquitectura web\Logica de negocios\bin\Debug\net5.0\Entidades.dll
+E:\Descargas\Arquitectura web\Logica de negocios\bin\Debug\net5.0\DAL.pdb
+E:\Descargas\Arquitectura web\Logica de negocios\bin\Debug\net5.0\Entidades.pdb
+E:\Descargas\Arquitectura web\Logica de negocios\obj\Debug\net5.0\Logica de negocios.csproj.AssemblyReference.cache
+E:\Descargas\Arquitectura web\Logica de negocios\obj\Debug\net5.0\Logica de negocios.GeneratedMSBuildEditorConfig.editorconfig
+E:\Descargas\Arquitectura web\Logica de negocios\obj\Debug\net5.0\Logica de negocios.AssemblyInfoInputs.cache
+E:\Descargas\Arquitectura web\Logica de negocios\obj\Debug\net5.0\Logica de negocios.AssemblyInfo.cs
+E:\Descargas\Arquitectura web\Logica de negocios\obj\Debug\net5.0\Logica de negocios.csproj.CoreCompileInputs.cache
+E:\Descargas\Arquitectura web\Logica de negocios\obj\Debug\net5.0\Logica de negocios.csproj.CopyComplete
+E:\Descargas\Arquitectura web\Logica de negocios\obj\Debug\net5.0\Logica de negocios.dll
+E:\Descargas\Arquitectura web\Logica de negocios\obj\Debug\net5.0\ref\Logica de negocios.dll
+E:\Descargas\Arquitectura web\Logica de negocios\obj\Debug\net5.0\Logica de negocios.pdb
+E:\Descargas\Arquitectura web\Logica de negocios\bin\Debug\net5.0\Tools.dll
+E:\Descargas\Arquitectura web\Logica de negocios\bin\Debug\net5.0\Tools.pdb
+D:\6 Semestre\Tecnologias Emergentes\Arquitectura web\Logica de negocios\bin\Debug\net5.0\Logica de negocios.deps.json
+D:\6 Semestre\Tecnologias Emergentes\Arquitectura web\Logica de negocios\bin\Debug\net5.0\Logica de negocios.dll
+D:\6 Semestre\Tecnologias Emergentes\Arquitectura web\Logica de negocios\bin\Debug\net5.0\Logica de negocios.pdb
+D:\6 Semestre\Tecnologias Emergentes\Arquitectura web\Logica de negocios\bin\Debug\net5.0\DAL.dll
+D:\6 Semestre\Tecnologias Emergentes\Arquitectura web\Logica de negocios\bin\Debug\net5.0\Entidades.dll
+D:\6 Semestre\Tecnologias Emergentes\Arquitectura web\Logica de negocios\bin\Debug\net5.0\Tools.dll
+D:\6 Semestre\Tecnologias Emergentes\Arquitectura web\Logica de negocios\bin\Debug\net5.0\DAL.pdb
+D:\6 Semestre\Tecnologias Emergentes\Arquitectura web\Logica de negocios\bin\Debug\net5.0\Entidades.pdb
+D:\6 Semestre\Tecnologias Emergentes\Arquitectura web\Logica de negocios\bin\Debug\net5.0\Tools.pdb
+D:\6 Semestre\Tecnologias Emergentes\Arquitectura web\Logica de negocios\obj\Debug\net5.0\Logica de negocios.csproj.AssemblyReference.cache
+D:\6 Semestre\Tecnologias Emergentes\Arquitectura web\Logica de negocios\obj\Debug\net5.0\Logica de negocios.GeneratedMSBuildEditorConfig.editorconfig
+D:\6 Semestre\Tecnologias Emergentes\Arquitectura web\Logica de negocios\obj\Debug\net5.0\Logica de negocios.AssemblyInfoInputs.cache
+D:\6 Semestre\Tecnologias Emergentes\Arquitectura web\Logica de negocios\obj\Debug\net5.0\Logica de negocios.AssemblyInfo.cs
+D:\6 Semestre\Tecnologias Emergentes\Arquitectura web\Logica de negocios\obj\Debug\net5.0\Logica de negocios.csproj.CoreCompileInputs.cache
+D:\6 Semestre\Tecnologias Emergentes\Arquitectura web\Logica de negocios\obj\Debug\net5.0\Logica de negocios.csproj.CopyComplete
+D:\6 Semestre\Tecnologias Emergentes\Arquitectura web\Logica de negocios\obj\Debug\net5.0\Logica de negocios.dll
+D:\6 Semestre\Tecnologias Emergentes\Arquitectura web\Logica de negocios\obj\Debug\net5.0\refint\Logica de negocios.dll
+D:\6 Semestre\Tecnologias Emergentes\Arquitectura web\Logica de negocios\obj\Debug\net5.0\Logica de negocios.pdb
+D:\6 Semestre\Tecnologias Emergentes\Arquitectura web\Logica de negocios\obj\Debug\net5.0\ref\Logica de negocios.dll
+E:\Escritorio\Arquitectura web\Logica de negocios\bin\Debug\net5.0\Logica de negocios.deps.json
+E:\Escritorio\Arquitectura web\Logica de negocios\bin\Debug\net5.0\Logica de negocios.dll
+E:\Escritorio\Arquitectura web\Logica de negocios\bin\Debug\net5.0\Logica de negocios.pdb
+E:\Escritorio\Arquitectura web\Logica de negocios\bin\Debug\net5.0\DAL.dll
+E:\Escritorio\Arquitectura web\Logica de negocios\bin\Debug\net5.0\Entidades.dll
+E:\Escritorio\Arquitectura web\Logica de negocios\bin\Debug\net5.0\Tools.dll
+E:\Escritorio\Arquitectura web\Logica de negocios\bin\Debug\net5.0\DAL.pdb
+E:\Escritorio\Arquitectura web\Logica de negocios\bin\Debug\net5.0\Entidades.pdb
+E:\Escritorio\Arquitectura web\Logica de negocios\bin\Debug\net5.0\Tools.pdb
+E:\Escritorio\Arquitectura web\Logica de negocios\obj\Debug\net5.0\Logica de negocios.csproj.AssemblyReference.cache
+E:\Escritorio\Arquitectura web\Logica de negocios\obj\Debug\net5.0\Logica de negocios.GeneratedMSBuildEditorConfig.editorconfig
+E:\Escritorio\Arquitectura web\Logica de negocios\obj\Debug\net5.0\Logica de negocios.AssemblyInfoInputs.cache
+E:\Escritorio\Arquitectura web\Logica de negocios\obj\Debug\net5.0\Logica de negocios.AssemblyInfo.cs
+E:\Escritorio\Arquitectura web\Logica de negocios\obj\Debug\net5.0\Logica de negocios.csproj.CoreCompileInputs.cache
+E:\Escritorio\Arquitectura web\Logica de negocios\obj\Debug\net5.0\Logica de negocios.csproj.CopyComplete
+E:\Escritorio\Arquitectura web\Logica de negocios\obj\Debug\net5.0\Logica de negocios.dll
+E:\Escritorio\Arquitectura web\Logica de negocios\obj\Debug\net5.0\refint\Logica de negocios.dll
+E:\Escritorio\Arquitectura web\Logica de negocios\obj\Debug\net5.0\Logica de negocios.pdb
+E:\Escritorio\Arquitectura web\Logica de negocios\obj\Debug\net5.0\ref\Logica de negocios.dll

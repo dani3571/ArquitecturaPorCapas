@@ -1,0 +1,342 @@
+C:\Users\Alumno\source\repos\Api Web\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Alumno\source\repos\Api Web\bin\Debug\net5.0\appsettings.json
+C:\Users\Alumno\source\repos\Api Web\bin\Debug\net5.0\Api Web.exe
+C:\Users\Alumno\source\repos\Api Web\bin\Debug\net5.0\Api Web.deps.json
+C:\Users\Alumno\source\repos\Api Web\bin\Debug\net5.0\Api Web.runtimeconfig.json
+C:\Users\Alumno\source\repos\Api Web\bin\Debug\net5.0\Api Web.runtimeconfig.dev.json
+C:\Users\Alumno\source\repos\Api Web\bin\Debug\net5.0\Api Web.dll
+C:\Users\Alumno\source\repos\Api Web\bin\Debug\net5.0\Api Web.pdb
+C:\Users\Alumno\source\repos\Api Web\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Alumno\source\repos\Api Web\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Alumno\source\repos\Api Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Alumno\source\repos\Api Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Alumno\source\repos\Api Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Alumno\source\repos\Api Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Alumno\source\repos\Api Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Alumno\source\repos\Api Web\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Alumno\source\repos\Api Web\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Alumno\source\repos\Api Web\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Alumno\source\repos\Api Web\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Alumno\source\repos\Api Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Alumno\source\repos\Api Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Alumno\source\repos\Api Web\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Alumno\source\repos\Api Web\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Alumno\source\repos\Api Web\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Alumno\source\repos\Api Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Alumno\source\repos\Api Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Alumno\source\repos\Api Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Alumno\source\repos\Api Web\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Alumno\source\repos\Api Web\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Alumno\source\repos\Api Web\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Alumno\source\repos\Api Web\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Alumno\source\repos\Api Web\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Alumno\source\repos\Api Web\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Alumno\source\repos\Api Web\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Alumno\source\repos\Api Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Alumno\source\repos\Api Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Alumno\source\repos\Api Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Alumno\source\repos\Api Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Alumno\source\repos\Api Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Alumno\source\repos\Api Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Alumno\source\repos\Api Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Alumno\source\repos\Api Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Alumno\source\repos\Api Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Alumno\source\repos\Api Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Alumno\source\repos\Api Web\bin\Debug\net5.0\DAL.dll
+C:\Users\Alumno\source\repos\Api Web\bin\Debug\net5.0\Logica de negocios.dll
+C:\Users\Alumno\source\repos\Api Web\bin\Debug\net5.0\Logica de negocios.pdb
+C:\Users\Alumno\source\repos\Api Web\bin\Debug\net5.0\DAL.pdb
+C:\Users\Alumno\source\repos\Api Web\obj\Debug\net5.0\Api Web.csproj.AssemblyReference.cache
+C:\Users\Alumno\source\repos\Api Web\obj\Debug\net5.0\Api Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\source\repos\Api Web\obj\Debug\net5.0\Api Web.AssemblyInfoInputs.cache
+C:\Users\Alumno\source\repos\Api Web\obj\Debug\net5.0\Api Web.AssemblyInfo.cs
+C:\Users\Alumno\source\repos\Api Web\obj\Debug\net5.0\Api Web.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\Api Web\obj\Debug\net5.0\Api Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Alumno\source\repos\Api Web\obj\Debug\net5.0\Api Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Alumno\source\repos\Api Web\obj\Debug\net5.0\scopedcss\bundle\Api Web.styles.css
+C:\Users\Alumno\source\repos\Api Web\obj\Debug\net5.0\staticwebassets\Api Web.StaticWebAssets.Manifest.cache
+C:\Users\Alumno\source\repos\Api Web\obj\Debug\net5.0\Api Web.RazorTargetAssemblyInfo.cache
+C:\Users\Alumno\source\repos\Api Web\obj\Debug\net5.0\Api Web.csproj.CopyComplete
+C:\Users\Alumno\source\repos\Api Web\obj\Debug\net5.0\Api Web.dll
+C:\Users\Alumno\source\repos\Api Web\obj\Debug\net5.0\Api Web.pdb
+C:\Users\Alumno\source\repos\Api Web\obj\Debug\net5.0\Api Web.genruntimeconfig.cache
+C:\Users\Alumno\source\repos\Api Web\obj\Debug\net5.0\ref\Api Web.dll
+C:\Users\Alumno\source\repos\Api Web\bin\Debug\net5.0\ref\Api Web.dll
+C:\Users\Alumno\source\repos\Api Web\obj\Debug\net5.0\staticwebassets\Api Web.StaticWebAssets.xml
+E:\Descargas\NuevaArquitectura\Arquitectura web\Api Web\bin\Debug\net5.0\appsettings.Development.json
+E:\Descargas\NuevaArquitectura\Arquitectura web\Api Web\bin\Debug\net5.0\appsettings.json
+E:\Descargas\NuevaArquitectura\Arquitectura web\Api Web\bin\Debug\net5.0\Api Web.exe
+E:\Descargas\NuevaArquitectura\Arquitectura web\Api Web\bin\Debug\net5.0\Api Web.deps.json
+E:\Descargas\NuevaArquitectura\Arquitectura web\Api Web\bin\Debug\net5.0\Api Web.runtimeconfig.json
+E:\Descargas\NuevaArquitectura\Arquitectura web\Api Web\bin\Debug\net5.0\Api Web.runtimeconfig.dev.json
+E:\Descargas\NuevaArquitectura\Arquitectura web\Api Web\bin\Debug\net5.0\Api Web.dll
+E:\Descargas\NuevaArquitectura\Arquitectura web\Api Web\bin\Debug\net5.0\ref\Api Web.dll
+E:\Descargas\NuevaArquitectura\Arquitectura web\Api Web\bin\Debug\net5.0\Api Web.pdb
+E:\Descargas\NuevaArquitectura\Arquitectura web\Api Web\bin\Debug\net5.0\Humanizer.dll
+E:\Descargas\NuevaArquitectura\Arquitectura web\Api Web\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\Descargas\NuevaArquitectura\Arquitectura web\Api Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Descargas\NuevaArquitectura\Arquitectura web\Api Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Descargas\NuevaArquitectura\Arquitectura web\Api Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Descargas\NuevaArquitectura\Arquitectura web\Api Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Descargas\NuevaArquitectura\Arquitectura web\Api Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Descargas\NuevaArquitectura\Arquitectura web\Api Web\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Descargas\NuevaArquitectura\Arquitectura web\Api Web\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\Descargas\NuevaArquitectura\Arquitectura web\Api Web\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Descargas\NuevaArquitectura\Arquitectura web\Api Web\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Descargas\NuevaArquitectura\Arquitectura web\Api Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Descargas\NuevaArquitectura\Arquitectura web\Api Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Descargas\NuevaArquitectura\Arquitectura web\Api Web\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Descargas\NuevaArquitectura\Arquitectura web\Api Web\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\Descargas\NuevaArquitectura\Arquitectura web\Api Web\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Descargas\NuevaArquitectura\Arquitectura web\Api Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Descargas\NuevaArquitectura\Arquitectura web\Api Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Descargas\NuevaArquitectura\Arquitectura web\Api Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Descargas\NuevaArquitectura\Arquitectura web\Api Web\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Descargas\NuevaArquitectura\Arquitectura web\Api Web\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\Descargas\NuevaArquitectura\Arquitectura web\Api Web\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Descargas\NuevaArquitectura\Arquitectura web\Api Web\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\Descargas\NuevaArquitectura\Arquitectura web\Api Web\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Descargas\NuevaArquitectura\Arquitectura web\Api Web\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Descargas\NuevaArquitectura\Arquitectura web\Api Web\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Descargas\NuevaArquitectura\Arquitectura web\Api Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Descargas\NuevaArquitectura\Arquitectura web\Api Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Descargas\NuevaArquitectura\Arquitectura web\Api Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Descargas\NuevaArquitectura\Arquitectura web\Api Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Descargas\NuevaArquitectura\Arquitectura web\Api Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Descargas\NuevaArquitectura\Arquitectura web\Api Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Descargas\NuevaArquitectura\Arquitectura web\Api Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Descargas\NuevaArquitectura\Arquitectura web\Api Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Descargas\NuevaArquitectura\Arquitectura web\Api Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Descargas\NuevaArquitectura\Arquitectura web\Api Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Descargas\NuevaArquitectura\Arquitectura web\Api Web\bin\Debug\net5.0\DAL.dll
+E:\Descargas\NuevaArquitectura\Arquitectura web\Api Web\bin\Debug\net5.0\Logica de negocios.dll
+E:\Descargas\NuevaArquitectura\Arquitectura web\Api Web\bin\Debug\net5.0\Logica de negocios.pdb
+E:\Descargas\NuevaArquitectura\Arquitectura web\Api Web\bin\Debug\net5.0\DAL.pdb
+E:\Descargas\NuevaArquitectura\Arquitectura web\Api Web\obj\Debug\net5.0\Api Web.csproj.AssemblyReference.cache
+E:\Descargas\NuevaArquitectura\Arquitectura web\Api Web\obj\Debug\net5.0\Api Web.GeneratedMSBuildEditorConfig.editorconfig
+E:\Descargas\NuevaArquitectura\Arquitectura web\Api Web\obj\Debug\net5.0\Api Web.AssemblyInfoInputs.cache
+E:\Descargas\NuevaArquitectura\Arquitectura web\Api Web\obj\Debug\net5.0\Api Web.AssemblyInfo.cs
+E:\Descargas\NuevaArquitectura\Arquitectura web\Api Web\obj\Debug\net5.0\Api Web.csproj.CoreCompileInputs.cache
+E:\Descargas\NuevaArquitectura\Arquitectura web\Api Web\obj\Debug\net5.0\Api Web.MvcApplicationPartsAssemblyInfo.cs
+E:\Descargas\NuevaArquitectura\Arquitectura web\Api Web\obj\Debug\net5.0\Api Web.MvcApplicationPartsAssemblyInfo.cache
+E:\Descargas\NuevaArquitectura\Arquitectura web\Api Web\obj\Debug\net5.0\staticwebassets\Api Web.StaticWebAssets.Manifest.cache
+E:\Descargas\NuevaArquitectura\Arquitectura web\Api Web\obj\Debug\net5.0\staticwebassets\Api Web.StaticWebAssets.xml
+E:\Descargas\NuevaArquitectura\Arquitectura web\Api Web\obj\Debug\net5.0\scopedcss\bundle\Api Web.styles.css
+E:\Descargas\NuevaArquitectura\Arquitectura web\Api Web\obj\Debug\net5.0\Api Web.RazorTargetAssemblyInfo.cache
+E:\Descargas\NuevaArquitectura\Arquitectura web\Api Web\obj\Debug\net5.0\Api Web.csproj.CopyComplete
+E:\Descargas\NuevaArquitectura\Arquitectura web\Api Web\obj\Debug\net5.0\Api Web.dll
+E:\Descargas\NuevaArquitectura\Arquitectura web\Api Web\obj\Debug\net5.0\ref\Api Web.dll
+E:\Descargas\NuevaArquitectura\Arquitectura web\Api Web\obj\Debug\net5.0\Api Web.pdb
+E:\Descargas\NuevaArquitectura\Arquitectura web\Api Web\obj\Debug\net5.0\Api Web.genruntimeconfig.cache
+E:\Descargas\Arquitectura web\Api Web\bin\Debug\net5.0\appsettings.Development.json
+E:\Descargas\Arquitectura web\Api Web\bin\Debug\net5.0\appsettings.json
+E:\Descargas\Arquitectura web\Api Web\bin\Debug\net5.0\Api Web.exe
+E:\Descargas\Arquitectura web\Api Web\bin\Debug\net5.0\Api Web.deps.json
+E:\Descargas\Arquitectura web\Api Web\bin\Debug\net5.0\Api Web.runtimeconfig.json
+E:\Descargas\Arquitectura web\Api Web\bin\Debug\net5.0\Api Web.runtimeconfig.dev.json
+E:\Descargas\Arquitectura web\Api Web\bin\Debug\net5.0\Api Web.dll
+E:\Descargas\Arquitectura web\Api Web\bin\Debug\net5.0\ref\Api Web.dll
+E:\Descargas\Arquitectura web\Api Web\bin\Debug\net5.0\Api Web.pdb
+E:\Descargas\Arquitectura web\Api Web\bin\Debug\net5.0\Humanizer.dll
+E:\Descargas\Arquitectura web\Api Web\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\Descargas\Arquitectura web\Api Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Descargas\Arquitectura web\Api Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Descargas\Arquitectura web\Api Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Descargas\Arquitectura web\Api Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Descargas\Arquitectura web\Api Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Descargas\Arquitectura web\Api Web\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Descargas\Arquitectura web\Api Web\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\Descargas\Arquitectura web\Api Web\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Descargas\Arquitectura web\Api Web\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Descargas\Arquitectura web\Api Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Descargas\Arquitectura web\Api Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Descargas\Arquitectura web\Api Web\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Descargas\Arquitectura web\Api Web\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\Descargas\Arquitectura web\Api Web\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Descargas\Arquitectura web\Api Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Descargas\Arquitectura web\Api Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Descargas\Arquitectura web\Api Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Descargas\Arquitectura web\Api Web\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Descargas\Arquitectura web\Api Web\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\Descargas\Arquitectura web\Api Web\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Descargas\Arquitectura web\Api Web\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\Descargas\Arquitectura web\Api Web\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Descargas\Arquitectura web\Api Web\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Descargas\Arquitectura web\Api Web\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Descargas\Arquitectura web\Api Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Descargas\Arquitectura web\Api Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Descargas\Arquitectura web\Api Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Descargas\Arquitectura web\Api Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Descargas\Arquitectura web\Api Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Descargas\Arquitectura web\Api Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Descargas\Arquitectura web\Api Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Descargas\Arquitectura web\Api Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Descargas\Arquitectura web\Api Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Descargas\Arquitectura web\Api Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Descargas\Arquitectura web\Api Web\bin\Debug\net5.0\DAL.dll
+E:\Descargas\Arquitectura web\Api Web\bin\Debug\net5.0\Entidades.dll
+E:\Descargas\Arquitectura web\Api Web\bin\Debug\net5.0\Logica de negocios.dll
+E:\Descargas\Arquitectura web\Api Web\bin\Debug\net5.0\Tools.dll
+E:\Descargas\Arquitectura web\Api Web\bin\Debug\net5.0\Entidades.pdb
+E:\Descargas\Arquitectura web\Api Web\bin\Debug\net5.0\Logica de negocios.pdb
+E:\Descargas\Arquitectura web\Api Web\bin\Debug\net5.0\Tools.pdb
+E:\Descargas\Arquitectura web\Api Web\bin\Debug\net5.0\DAL.pdb
+E:\Descargas\Arquitectura web\Api Web\obj\Debug\net5.0\Api Web.csproj.AssemblyReference.cache
+E:\Descargas\Arquitectura web\Api Web\obj\Debug\net5.0\Api Web.GeneratedMSBuildEditorConfig.editorconfig
+E:\Descargas\Arquitectura web\Api Web\obj\Debug\net5.0\Api Web.AssemblyInfoInputs.cache
+E:\Descargas\Arquitectura web\Api Web\obj\Debug\net5.0\Api Web.AssemblyInfo.cs
+E:\Descargas\Arquitectura web\Api Web\obj\Debug\net5.0\Api Web.csproj.CoreCompileInputs.cache
+E:\Descargas\Arquitectura web\Api Web\obj\Debug\net5.0\Api Web.MvcApplicationPartsAssemblyInfo.cs
+E:\Descargas\Arquitectura web\Api Web\obj\Debug\net5.0\Api Web.MvcApplicationPartsAssemblyInfo.cache
+E:\Descargas\Arquitectura web\Api Web\obj\Debug\net5.0\staticwebassets\Api Web.StaticWebAssets.Manifest.cache
+E:\Descargas\Arquitectura web\Api Web\obj\Debug\net5.0\staticwebassets\Api Web.StaticWebAssets.xml
+E:\Descargas\Arquitectura web\Api Web\obj\Debug\net5.0\scopedcss\bundle\Api Web.styles.css
+E:\Descargas\Arquitectura web\Api Web\obj\Debug\net5.0\Api Web.RazorTargetAssemblyInfo.cache
+E:\Descargas\Arquitectura web\Api Web\obj\Debug\net5.0\Api Web.csproj.CopyComplete
+E:\Descargas\Arquitectura web\Api Web\obj\Debug\net5.0\Api Web.dll
+E:\Descargas\Arquitectura web\Api Web\obj\Debug\net5.0\ref\Api Web.dll
+E:\Descargas\Arquitectura web\Api Web\obj\Debug\net5.0\Api Web.pdb
+E:\Descargas\Arquitectura web\Api Web\obj\Debug\net5.0\Api Web.genruntimeconfig.cache
+D:\6 Semestre\Tecnologias Emergentes\Arquitectura web\Api Web\bin\Debug\net5.0\appsettings.Development.json
+D:\6 Semestre\Tecnologias Emergentes\Arquitectura web\Api Web\bin\Debug\net5.0\appsettings.json
+D:\6 Semestre\Tecnologias Emergentes\Arquitectura web\Api Web\bin\Debug\net5.0\Api Web.StaticWebAssets.xml
+D:\6 Semestre\Tecnologias Emergentes\Arquitectura web\Api Web\bin\Debug\net5.0\Api Web.exe
+D:\6 Semestre\Tecnologias Emergentes\Arquitectura web\Api Web\bin\Debug\net5.0\Api Web.deps.json
+D:\6 Semestre\Tecnologias Emergentes\Arquitectura web\Api Web\bin\Debug\net5.0\Api Web.runtimeconfig.json
+D:\6 Semestre\Tecnologias Emergentes\Arquitectura web\Api Web\bin\Debug\net5.0\Api Web.runtimeconfig.dev.json
+D:\6 Semestre\Tecnologias Emergentes\Arquitectura web\Api Web\bin\Debug\net5.0\Api Web.dll
+D:\6 Semestre\Tecnologias Emergentes\Arquitectura web\Api Web\bin\Debug\net5.0\Api Web.pdb
+D:\6 Semestre\Tecnologias Emergentes\Arquitectura web\Api Web\bin\Debug\net5.0\Humanizer.dll
+D:\6 Semestre\Tecnologias Emergentes\Arquitectura web\Api Web\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\6 Semestre\Tecnologias Emergentes\Arquitectura web\Api Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\6 Semestre\Tecnologias Emergentes\Arquitectura web\Api Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\6 Semestre\Tecnologias Emergentes\Arquitectura web\Api Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\6 Semestre\Tecnologias Emergentes\Arquitectura web\Api Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\6 Semestre\Tecnologias Emergentes\Arquitectura web\Api Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\6 Semestre\Tecnologias Emergentes\Arquitectura web\Api Web\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\6 Semestre\Tecnologias Emergentes\Arquitectura web\Api Web\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\6 Semestre\Tecnologias Emergentes\Arquitectura web\Api Web\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\6 Semestre\Tecnologias Emergentes\Arquitectura web\Api Web\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\6 Semestre\Tecnologias Emergentes\Arquitectura web\Api Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\6 Semestre\Tecnologias Emergentes\Arquitectura web\Api Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\6 Semestre\Tecnologias Emergentes\Arquitectura web\Api Web\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\6 Semestre\Tecnologias Emergentes\Arquitectura web\Api Web\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\6 Semestre\Tecnologias Emergentes\Arquitectura web\Api Web\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\6 Semestre\Tecnologias Emergentes\Arquitectura web\Api Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\6 Semestre\Tecnologias Emergentes\Arquitectura web\Api Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\6 Semestre\Tecnologias Emergentes\Arquitectura web\Api Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\6 Semestre\Tecnologias Emergentes\Arquitectura web\Api Web\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\6 Semestre\Tecnologias Emergentes\Arquitectura web\Api Web\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\6 Semestre\Tecnologias Emergentes\Arquitectura web\Api Web\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\6 Semestre\Tecnologias Emergentes\Arquitectura web\Api Web\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\6 Semestre\Tecnologias Emergentes\Arquitectura web\Api Web\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\6 Semestre\Tecnologias Emergentes\Arquitectura web\Api Web\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\6 Semestre\Tecnologias Emergentes\Arquitectura web\Api Web\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\6 Semestre\Tecnologias Emergentes\Arquitectura web\Api Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\6 Semestre\Tecnologias Emergentes\Arquitectura web\Api Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\6 Semestre\Tecnologias Emergentes\Arquitectura web\Api Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\6 Semestre\Tecnologias Emergentes\Arquitectura web\Api Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\6 Semestre\Tecnologias Emergentes\Arquitectura web\Api Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\6 Semestre\Tecnologias Emergentes\Arquitectura web\Api Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\6 Semestre\Tecnologias Emergentes\Arquitectura web\Api Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\6 Semestre\Tecnologias Emergentes\Arquitectura web\Api Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\6 Semestre\Tecnologias Emergentes\Arquitectura web\Api Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\6 Semestre\Tecnologias Emergentes\Arquitectura web\Api Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\6 Semestre\Tecnologias Emergentes\Arquitectura web\Api Web\bin\Debug\net5.0\DAL.dll
+D:\6 Semestre\Tecnologias Emergentes\Arquitectura web\Api Web\bin\Debug\net5.0\Entidades.dll
+D:\6 Semestre\Tecnologias Emergentes\Arquitectura web\Api Web\bin\Debug\net5.0\Logica de negocios.dll
+D:\6 Semestre\Tecnologias Emergentes\Arquitectura web\Api Web\bin\Debug\net5.0\Tools.dll
+D:\6 Semestre\Tecnologias Emergentes\Arquitectura web\Api Web\bin\Debug\net5.0\Entidades.pdb
+D:\6 Semestre\Tecnologias Emergentes\Arquitectura web\Api Web\bin\Debug\net5.0\Logica de negocios.pdb
+D:\6 Semestre\Tecnologias Emergentes\Arquitectura web\Api Web\bin\Debug\net5.0\Tools.pdb
+D:\6 Semestre\Tecnologias Emergentes\Arquitectura web\Api Web\bin\Debug\net5.0\DAL.pdb
+D:\6 Semestre\Tecnologias Emergentes\Arquitectura web\Api Web\obj\Debug\net5.0\Api Web.csproj.AssemblyReference.cache
+D:\6 Semestre\Tecnologias Emergentes\Arquitectura web\Api Web\obj\Debug\net5.0\Api Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\6 Semestre\Tecnologias Emergentes\Arquitectura web\Api Web\obj\Debug\net5.0\Api Web.AssemblyInfoInputs.cache
+D:\6 Semestre\Tecnologias Emergentes\Arquitectura web\Api Web\obj\Debug\net5.0\Api Web.AssemblyInfo.cs
+D:\6 Semestre\Tecnologias Emergentes\Arquitectura web\Api Web\obj\Debug\net5.0\Api Web.csproj.CoreCompileInputs.cache
+D:\6 Semestre\Tecnologias Emergentes\Arquitectura web\Api Web\obj\Debug\net5.0\Api Web.MvcApplicationPartsAssemblyInfo.cs
+D:\6 Semestre\Tecnologias Emergentes\Arquitectura web\Api Web\obj\Debug\net5.0\Api Web.MvcApplicationPartsAssemblyInfo.cache
+D:\6 Semestre\Tecnologias Emergentes\Arquitectura web\Api Web\obj\Debug\net5.0\scopedcss\bundle\Api Web.styles.css
+D:\6 Semestre\Tecnologias Emergentes\Arquitectura web\Api Web\obj\Debug\net5.0\staticwebassets\Api Web.StaticWebAssets.Manifest.cache
+D:\6 Semestre\Tecnologias Emergentes\Arquitectura web\Api Web\obj\Debug\net5.0\Api Web.RazorTargetAssemblyInfo.cache
+D:\6 Semestre\Tecnologias Emergentes\Arquitectura web\Api Web\obj\Debug\net5.0\Api Web.csproj.CopyComplete
+D:\6 Semestre\Tecnologias Emergentes\Arquitectura web\Api Web\obj\Debug\net5.0\Api Web.dll
+D:\6 Semestre\Tecnologias Emergentes\Arquitectura web\Api Web\obj\Debug\net5.0\refint\Api Web.dll
+D:\6 Semestre\Tecnologias Emergentes\Arquitectura web\Api Web\obj\Debug\net5.0\Api Web.pdb
+D:\6 Semestre\Tecnologias Emergentes\Arquitectura web\Api Web\obj\Debug\net5.0\Api Web.genruntimeconfig.cache
+D:\6 Semestre\Tecnologias Emergentes\Arquitectura web\Api Web\obj\Debug\net5.0\ref\Api Web.dll
+E:\Escritorio\Arquitectura web\Api Web\bin\Debug\net5.0\appsettings.Development.json
+E:\Escritorio\Arquitectura web\Api Web\bin\Debug\net5.0\appsettings.json
+E:\Escritorio\Arquitectura web\Api Web\bin\Debug\net5.0\Api Web.StaticWebAssets.xml
+E:\Escritorio\Arquitectura web\Api Web\bin\Debug\net5.0\Api Web.exe
+E:\Escritorio\Arquitectura web\Api Web\bin\Debug\net5.0\Api Web.deps.json
+E:\Escritorio\Arquitectura web\Api Web\bin\Debug\net5.0\Api Web.runtimeconfig.json
+E:\Escritorio\Arquitectura web\Api Web\bin\Debug\net5.0\Api Web.runtimeconfig.dev.json
+E:\Escritorio\Arquitectura web\Api Web\bin\Debug\net5.0\Api Web.dll
+E:\Escritorio\Arquitectura web\Api Web\bin\Debug\net5.0\Api Web.pdb
+E:\Escritorio\Arquitectura web\Api Web\bin\Debug\net5.0\Humanizer.dll
+E:\Escritorio\Arquitectura web\Api Web\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\Escritorio\Arquitectura web\Api Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Escritorio\Arquitectura web\Api Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Escritorio\Arquitectura web\Api Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Escritorio\Arquitectura web\Api Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Escritorio\Arquitectura web\Api Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Escritorio\Arquitectura web\Api Web\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Escritorio\Arquitectura web\Api Web\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\Escritorio\Arquitectura web\Api Web\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Escritorio\Arquitectura web\Api Web\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Escritorio\Arquitectura web\Api Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Escritorio\Arquitectura web\Api Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Escritorio\Arquitectura web\Api Web\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Escritorio\Arquitectura web\Api Web\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\Escritorio\Arquitectura web\Api Web\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Escritorio\Arquitectura web\Api Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Escritorio\Arquitectura web\Api Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Escritorio\Arquitectura web\Api Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Escritorio\Arquitectura web\Api Web\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Escritorio\Arquitectura web\Api Web\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\Escritorio\Arquitectura web\Api Web\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Escritorio\Arquitectura web\Api Web\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\Escritorio\Arquitectura web\Api Web\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Escritorio\Arquitectura web\Api Web\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Escritorio\Arquitectura web\Api Web\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Escritorio\Arquitectura web\Api Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Escritorio\Arquitectura web\Api Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Escritorio\Arquitectura web\Api Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Escritorio\Arquitectura web\Api Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Escritorio\Arquitectura web\Api Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Escritorio\Arquitectura web\Api Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Escritorio\Arquitectura web\Api Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Escritorio\Arquitectura web\Api Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Escritorio\Arquitectura web\Api Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Escritorio\Arquitectura web\Api Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Escritorio\Arquitectura web\Api Web\bin\Debug\net5.0\DAL.dll
+E:\Escritorio\Arquitectura web\Api Web\bin\Debug\net5.0\Entidades.dll
+E:\Escritorio\Arquitectura web\Api Web\bin\Debug\net5.0\Logica de negocios.dll
+E:\Escritorio\Arquitectura web\Api Web\bin\Debug\net5.0\Tools.dll
+E:\Escritorio\Arquitectura web\Api Web\bin\Debug\net5.0\Entidades.pdb
+E:\Escritorio\Arquitectura web\Api Web\bin\Debug\net5.0\Logica de negocios.pdb
+E:\Escritorio\Arquitectura web\Api Web\bin\Debug\net5.0\Tools.pdb
+E:\Escritorio\Arquitectura web\Api Web\bin\Debug\net5.0\DAL.pdb
+E:\Escritorio\Arquitectura web\Api Web\obj\Debug\net5.0\Api Web.csproj.AssemblyReference.cache
+E:\Escritorio\Arquitectura web\Api Web\obj\Debug\net5.0\Api Web.GeneratedMSBuildEditorConfig.editorconfig
+E:\Escritorio\Arquitectura web\Api Web\obj\Debug\net5.0\Api Web.AssemblyInfoInputs.cache
+E:\Escritorio\Arquitectura web\Api Web\obj\Debug\net5.0\Api Web.AssemblyInfo.cs
+E:\Escritorio\Arquitectura web\Api Web\obj\Debug\net5.0\Api Web.csproj.CoreCompileInputs.cache
+E:\Escritorio\Arquitectura web\Api Web\obj\Debug\net5.0\Api Web.MvcApplicationPartsAssemblyInfo.cs
+E:\Escritorio\Arquitectura web\Api Web\obj\Debug\net5.0\Api Web.MvcApplicationPartsAssemblyInfo.cache
+E:\Escritorio\Arquitectura web\Api Web\obj\Debug\net5.0\scopedcss\bundle\Api Web.styles.css
+E:\Escritorio\Arquitectura web\Api Web\obj\Debug\net5.0\staticwebassets\Api Web.StaticWebAssets.Manifest.cache
+E:\Escritorio\Arquitectura web\Api Web\obj\Debug\net5.0\staticwebassets\Api Web.StaticWebAssets.Pack.cache
+E:\Escritorio\Arquitectura web\Api Web\obj\Debug\net5.0\staticwebassets\msbuild.Api Web.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Escritorio\Arquitectura web\Api Web\obj\Debug\net5.0\staticwebassets\msbuild.build.Api Web.props
+E:\Escritorio\Arquitectura web\Api Web\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Api Web.props
+E:\Escritorio\Arquitectura web\Api Web\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Api Web.props
+E:\Escritorio\Arquitectura web\Api Web\obj\Debug\net5.0\Api Web.RazorTargetAssemblyInfo.cache
+E:\Escritorio\Arquitectura web\Api Web\obj\Debug\net5.0\Api Web.csproj.CopyComplete
+E:\Escritorio\Arquitectura web\Api Web\obj\Debug\net5.0\Api Web.dll
+E:\Escritorio\Arquitectura web\Api Web\obj\Debug\net5.0\refint\Api Web.dll
+E:\Escritorio\Arquitectura web\Api Web\obj\Debug\net5.0\Api Web.pdb
+E:\Escritorio\Arquitectura web\Api Web\obj\Debug\net5.0\Api Web.genruntimeconfig.cache
+E:\Escritorio\Arquitectura web\Api Web\obj\Debug\net5.0\ref\Api Web.dll

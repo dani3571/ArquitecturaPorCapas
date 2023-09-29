@@ -1,0 +1,12 @@
+E:\Descargas\NuevaArquitectura\Arquitectura web\Tools\bin\Debug\Tools.dll
+E:\Descargas\NuevaArquitectura\Arquitectura web\Tools\bin\Debug\Tools.pdb
+E:\Descargas\NuevaArquitectura\Arquitectura web\Tools\obj\Debug\Tools.csproj.AssemblyReference.cache
+E:\Descargas\NuevaArquitectura\Arquitectura web\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+E:\Descargas\NuevaArquitectura\Arquitectura web\Tools\obj\Debug\Tools.dll
+E:\Descargas\NuevaArquitectura\Arquitectura web\Tools\obj\Debug\Tools.pdb
+E:\Descargas\Arquitectura web\Tools\bin\Debug\Tools.dll
+E:\Descargas\Arquitectura web\Tools\bin\Debug\Tools.pdb
+E:\Descargas\Arquitectura web\Tools\obj\Debug\Tools.csproj.AssemblyReference.cache
+E:\Descargas\Arquitectura web\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+E:\Descargas\Arquitectura web\Tools\obj\Debug\Tools.dll
+E:\Descargas\Arquitectura web\Tools\obj\Debug\Tools.pdb
