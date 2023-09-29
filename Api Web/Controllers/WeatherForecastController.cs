@@ -7,7 +7,6 @@ using System.Threading.Tasks;
 using Api_Web.Models;
 using Entidades.DataContracts;
 using Logica_de_negocios;
-using Entidades;
 
 namespace Api_Web.Controllers
 {
@@ -34,12 +33,11 @@ namespace Api_Web.Controllers
             return us;
         }
         /*
-        [HttpGet]
         public Response Get([FromBody]string username, string password) {
             Servicios services = new Servicios();
             return new Response();
-        }*/
-
+        }
+        */
         [HttpPut]
         public Response Put([FromBody] Entidades.User user)
         {
@@ -47,8 +45,9 @@ namespace Api_Web.Controllers
             Response us = services.EditUser(new Entidades.User(user.Id, user.Username, user.Password));
             return us;
         }
-        /*
-        [HttpGet]
+
+
+        [HttpGet("listado")]
         public IActionResult ListarUsuarios()
         {
                 Servicios services = new Servicios();
@@ -57,13 +56,24 @@ namespace Api_Web.Controllers
                 return Ok(usuarios);
          
         }
-       */
-        [HttpGet]
-        public LoginResponse Login([FromBody]LoginRequest user)
+
+
+        [HttpGet("login")]
+        public LoginResponse Login([FromBody] LoginRequest user)
         {
             Servicios services = new Servicios();
+            Funciones funciones = new Funciones(); 
 
-            return services.LoginUser(user);
+            try
+            {
+                LoginResponse response = services.LoginUser(user);
+                return response;
+            }
+            catch (Exception ex)
+            {
+                LoginResponse errorResponse = funciones.GetError(ex);
+                return errorResponse;
+            }
         }
     }
 }

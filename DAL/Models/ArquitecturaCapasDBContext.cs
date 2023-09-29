@@ -23,7 +23,7 @@ namespace DAL.Models
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer("Server=a301-17;Database=ArquitecturaCapasDB;Trusted_Connection=True;");
+                optionsBuilder.UseSqlServer("Server=DESKTOP-U4H2IB6;Database=ArquitecturaCapasDB;Trusted_Connection=True;");
             }
         }
 

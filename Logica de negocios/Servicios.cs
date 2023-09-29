@@ -6,7 +6,6 @@ using System.Threading.Tasks;
 using Entidades.DataContracts;
 using DAL;
 using DAL.Models;
-using Entidades;
 
 namespace Logica_de_negocios
 {

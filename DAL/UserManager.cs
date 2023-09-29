@@ -4,7 +4,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using DAL.Models;
-using Entidades;
 using Entidades.DataContracts;
 using Tools;
 namespace DAL
@@ -102,20 +101,20 @@ namespace DAL
                      LoginResponse resp = new LoginResponse();
 
                       resp.ErrorCode = 200;
-                      resp.Description = "";
-                      resp.Description = "Login correcto";
+                      resp.Message = "Login correcto";
+                      resp.Description = "Ok";
                       
                       return resp;
                 }
                 else
                 {
-                    throw new Exception("Error al iniciar sesion");
+                    throw new Exception("ErrorContraseña");
                 }
 
             }
             else
             {
-                throw new Exception("No existe el usuario");
+                throw new Exception("ErrorUsuario");
             }
         }
     }
